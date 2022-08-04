@@ -41,3 +41,4 @@ bin
 
 # Custom
 .DS_Store
+nginx__conf__*/**
